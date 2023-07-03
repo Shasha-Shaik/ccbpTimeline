@@ -1,0 +1,35 @@
+.thumbnail-img {
+  width: 200px;
+}
+
+.thumbnail-btn {
+  cursor: pointer;
+}
+
+.popup-content {
+  background-color: #ffffff;
+  height: 460px;
+  width: 760px;
+  border-radius: 16px;
+}
+
+.model-container {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.trigger-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.close-icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
